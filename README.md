@@ -46,19 +46,16 @@ Key variables include:
 
 The analysis primarily focuses on National Demand and embedded renewable generation.
 
+
 ## Project Status
 
-**Core analysis completed — documentation and portfolio preparation in progress.**
+**Completed — Published on GitHub**
 
-The project currently includes:
+The project includes four analysis notebooks covering data exploration, electricity demand patterns, embedded renewable generation and SQL-powered visualisations.
 
-- Data exploration, validation and feature engineering
-- Electricity demand pattern analysis
-- Embedded renewable generation analysis
-- SQL-based demand analysis
-- SQL-powered visualisations
+The repository also includes SQL analysis scripts, a SQLite database creation script, documentation and selected visualisations.
 
-Further work focuses on documenting findings, organising outputs and preparing the project for publication on GitHub.
+Future enhancements may include demand forecasting, additional statistical analysis and interactive dashboards.
 
 ## Key Findings
 
@@ -152,6 +149,7 @@ uk-electricity-demand-analysis/
 ├── .gitignore
 └── README.md
 ```
+**Note:** The raw NESO dataset and generated SQLite database are excluded from version control. To reproduce the analysis, download the original 2024 dataset using the instructions above and run `src/create_database.py` to generate the database locally.
 
 ## Getting Started
 
