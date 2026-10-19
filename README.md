@@ -160,7 +160,7 @@ uk-electricity-demand-analysis/
 Clone this repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/DannyAkih/uk-electricity-demand-analysis.git
+git clone git clone https://github.com/daniel-akih/uk-electricity-demand-analysis.git
 cd uk-electricity-demand-analysis
 ```
 
