@@ -160,11 +160,11 @@ uk-electricity-demand-analysis/
 Clone this repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/uk-electricity-demand-analysis.git
+git clone https://github.com/DannyAkih/uk-electricity-demand-analysis.git
 cd uk-electricity-demand-analysis
 ```
 
-Replace `YOUR-USERNAME` with the appropriate GitHub username once the repository is published.
+
 
 ### 2. Install Dependencies
 
